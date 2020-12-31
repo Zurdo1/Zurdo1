@@ -1,13 +1,14 @@
 ### Hi, I am Andres 👨🏽‍💻
 
-``js
+```js
 const andres = {
     pronouns: "He" | "Him",
     askMeAbout: "web",
         frontEnd: {
             js: "React"
             css: ["bootstrap", "sass"]
-};``
+};
+```
 
 <!--
 **Zurdo1/Zurdo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
